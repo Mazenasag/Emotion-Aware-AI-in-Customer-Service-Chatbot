@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-This project was developed as part of the MSc.TE program under modules ID 403/404 – _Requirement Identification and Establishment_. The goal is to design and prototype an **Emotion-Aware AI Chatbot for Customer Service** that not only answers user queries but also understands and responds to user emotions using advanced NLP and sentiment analysis techniques.
+This project was developed as part of the MSc.TE program for human human interaction course  and the goal is to design and prototype an **Emotion-Aware AI Chatbot for Customer Service** that not only answers user queries but also understands and responds to user emotions using advanced NLP and sentiment analysis techniques.
 
 ## ❗ Problem Statement
 
