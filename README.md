@@ -4,7 +4,7 @@
 
 This project was developed as part of the MSc.TE program for human human interaction course  and the goal is to design and prototype an **Emotion-Aware AI Chatbot for Customer Service** that not only answers user queries but also understands and responds to user emotions using advanced NLP and sentiment analysis techniques.
 
-## ❗ Problem Statement
+## ❗ Problem Statement 
 
 In traditional customer service systems, emotional context is often ignored. Users may express dissatisfaction, anger, or confusion, yet receive generic or tone-deaf responses. This project seeks to enhance user satisfaction and support effectiveness by integrating **emotion-aware capabilities** into a chatbot, allowing it to:
 
